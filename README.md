@@ -1,6 +1,5 @@
 ![2021-12-11 at 10 57 33](https://user-images.githubusercontent.com/159336/145689758-20df4c9b-b3a1-4ff5-a0fa-308931924138.jpg)
 
-
 # totally.css
 
 Like tailwind but with css variables.
@@ -26,17 +25,17 @@ These are the variables:
 | Rule | Variable | Property |
 | ---  | ---      | ---      |
 | color            | --color-black      | #14141B                 |
-| color            | --color-grey-50    | #f9fafb                 |
-| color            | --color-grey-100   | #f2f4f5                 |
-| color            | --color-grey-200   | #e8eaed                 |
-| color            | --color-grey-300   | #d4d7dd                 |
-| color            | --color-grey-400   | #a5aab4                 |
-| color            | --color-grey-500   | #767c89                 |
-| color            | --color-grey-600   | #555d6e                 |
-| color            | --color-grey-700   | #3f4754                 |
-| color            | --color-grey-800   | #2c343f                 |
-| color            | --color-grey-900   | #10181C                 |
-| color            | --color-grey       | var(--color-grey-500)   |
+| color            | --color-gray-50    | #f9fafb                 |
+| color            | --color-gray-100   | #f2f4f5                 |
+| color            | --color-gray-200   | #e8eaed                 |
+| color            | --color-gray-300   | #d4d7dd                 |
+| color            | --color-gray-400   | #a5aab4                 |
+| color            | --color-gray-500   | #767c89                 |
+| color            | --color-gray-600   | #555d6e                 |
+| color            | --color-gray-700   | #3f4754                 |
+| color            | --color-gray-800   | #2c343f                 |
+| color            | --color-gray-900   | #10181C                 |
+| color            | --color-gray       | var(--color-gray-500)   |
 | color            | --color-red-300    | #fc8181                 |
 | color            | --color-red-500    | #e53e3e                 |
 | color            | --color-red-700    | #c53030                 |
@@ -78,17 +77,17 @@ These are the variables:
 | color            | --color-brown-700  | #5d4037                 |
 | color            | --color-brown      | var(--color-brown-500)  |
 | background-color | --color-black      | #14141B                 |
-| background-color | --color-grey-50    | #f9fafb                 |
-| background-color | --color-grey-100   | #f2f4f5                 |
-| background-color | --color-grey-200   | #e8eaed                 |
-| background-color | --color-grey-300   | #d4d7dd                 |
-| background-color | --color-grey-400   | #a5aab4                 |
-| background-color | --color-grey-500   | #767c89                 |
-| background-color | --color-grey-600   | #555d6e                 |
-| background-color | --color-grey-700   | #3f4754                 |
-| background-color | --color-grey-800   | #2c343f                 |
-| background-color | --color-grey-900   | #10181C                 |
-| background-color | --color-grey       | var(--color-grey-500)   |
+| background-color | --color-gray-50    | #f9fafb                 |
+| background-color | --color-gray-100   | #f2f4f5                 |
+| background-color | --color-gray-200   | #e8eaed                 |
+| background-color | --color-gray-300   | #d4d7dd                 |
+| background-color | --color-gray-400   | #a5aab4                 |
+| background-color | --color-gray-500   | #767c89                 |
+| background-color | --color-gray-600   | #555d6e                 |
+| background-color | --color-gray-700   | #3f4754                 |
+| background-color | --color-gray-800   | #2c343f                 |
+| background-color | --color-gray-900   | #10181C                 |
+| background-color | --color-gray       | var(--color-gray-500)   |
 | background-color | --color-red-300    | #fc8181                 |
 | background-color | --color-red-500    | #e53e3e                 |
 | background-color | --color-red-700    | #c53030                 |
@@ -361,7 +360,6 @@ These are the variables:
 | z-index         | --layer-top         | 2147483647                                                              |
 
 </details>
-
 
 
 # Why
