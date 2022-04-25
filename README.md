@@ -5,7 +5,7 @@
 
 Like tailwind but with css variables.
 
-# [WAT](https://www.destroyallsoftware.com/talks/wat)
+# What?
 
 This will explain everything:
 
