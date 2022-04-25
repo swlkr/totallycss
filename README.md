@@ -25,11 +25,17 @@ These are the variables:
 
 | Rule | Variable | Property |
 | ---  | ---      | ---      |
-| color            | --color-black      | #1a202c                 |
-| color            | --color-grey-100   | #f7fafc                 |
-| color            | --color-grey-300   | #e2e8f0                 |
-| color            | --color-grey-500   | #a0aec0                 |
-| color            | --color-grey-700   | #4a5568                 |
+| color            | --color-black      | #14141B                 |
+| color            | --color-grey-50    | #f9fafb                 |
+| color            | --color-grey-100   | #f2f4f5                 |
+| color            | --color-grey-200   | #e8eaed                 |
+| color            | --color-grey-300   | #d4d7dd                 |
+| color            | --color-grey-400   | #a5aab4                 |
+| color            | --color-grey-500   | #767c89                 |
+| color            | --color-grey-600   | #555d6e                 |
+| color            | --color-grey-700   | #3f4754                 |
+| color            | --color-grey-800   | #2c343f                 |
+| color            | --color-grey-900   | #10181C                 |
 | color            | --color-grey       | var(--color-grey-500)   |
 | color            | --color-red-300    | #fc8181                 |
 | color            | --color-red-500    | #e53e3e                 |
@@ -71,11 +77,17 @@ These are the variables:
 | color            | --color-brown-500  | #795548                 |
 | color            | --color-brown-700  | #5d4037                 |
 | color            | --color-brown      | var(--color-brown-500)  |
-| background-color | --color-black      | #1a202c                 |
-| background-color | --color-grey-100   | #f7fafc                 |
-| background-color | --color-grey-300   | #e2e8f0                 |
-| background-color | --color-grey-500   | #a0aec0                 |
-| background-color | --color-grey-700   | #4a5568                 |
+| background-color | --color-black      | #14141B                 |
+| background-color | --color-grey-50    | #f9fafb                 |
+| background-color | --color-grey-100   | #f2f4f5                 |
+| background-color | --color-grey-200   | #e8eaed                 |
+| background-color | --color-grey-300   | #d4d7dd                 |
+| background-color | --color-grey-400   | #a5aab4                 |
+| background-color | --color-grey-500   | #767c89                 |
+| background-color | --color-grey-600   | #555d6e                 |
+| background-color | --color-grey-700   | #3f4754                 |
+| background-color | --color-grey-800   | #2c343f                 |
+| background-color | --color-grey-900   | #10181C                 |
 | background-color | --color-grey       | var(--color-grey-500)   |
 | background-color | --color-red-300    | #fc8181                 |
 | background-color | --color-red-500    | #e53e3e                 |
@@ -124,6 +136,8 @@ These are the variables:
 
 | Rule | Variable | Property |
 | ---  | ---      | ---      |
+| font-size      | --scale-000        | 0.75rem                                                                                  |
+| font-size      | --scale-00         | 0.875rem                                                                                 |
 | font-size      | --scale-0          | 1rem                                                                                     |
 | font-size      | --scale-1          | 1.125rem                                                                                 |
 | font-size      | --scale-2          | 1.25rem                                                                                  |
@@ -135,8 +149,6 @@ These are the variables:
 | font-size      | --scale-8          | 4.5rem                                                                                   |
 | font-size      | --scale-9          | 6rem                                                                                     |
 | font-size      | --scale-10         | 8rem                                                                                     |
-| font-size      | --scale-000        | 0.75rem                                                                                  |
-| font-size      | --scale-00         | 0.875rem                                                                                 |
 | font-family    | --font-sans        | system-ui, -apple-system, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue |
 | font-family    | --font-serif       | Georgia, Cambria, "Times New Roman", Times, serif                                        |
 | font-family    | --font-mono        | Consolas, Menlo, Monaco, "Liberation Mono", monospace                                    |
@@ -349,6 +361,7 @@ These are the variables:
 | z-index         | --layer-top         | 2147483647                                                              |
 
 </details>
+
 
 
 # Why
