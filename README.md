@@ -356,6 +356,6 @@ These are the variables:
 I really liked pollen.style but I don't use npm or node,
 I just wanted something like pollen but with just plain css files.
 
-This project is emabarrasingly simple, just drop the `totally.min.css` file in your
+This project is totally simple, just drop the `totally.min.css` file in your
 assets folder (or wherever) and viola, you have a decent style guide
 with css variables.
