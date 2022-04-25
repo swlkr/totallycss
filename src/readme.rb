@@ -44,7 +44,11 @@ class Array
   end
 end
 
-css_vars = File.read('totally.css').split("\n").map(&:strip)
+css_vars = []
+
+%w[colors typography layout ui].each do |filename|
+  css_vars += File.read("#{filename}.css").split("\n").map(&:strip)
+end
 
 sections.map do |key, rules|
   puts '<details>'
